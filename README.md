@@ -115,6 +115,6 @@ The state is 500 and this is the logs:
 If I add the dev option it works:
 
 ```elixir
-      {:igniter, "~> 0.4.0", onlyl: :dev}
+      {:igniter, "~> 0.4.0", only: :dev}
 ```
 

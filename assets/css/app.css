@@ -3,3 +3,13 @@
 @import "tailwindcss/utilities";
 
 /* This file is for your main application CSS */
+
+/* Iconify basic css */
+[iconify] {
+	background-color: currentColor;
+	-webkit-mask-size: cover;
+	mask-size: cover;
+	min-width: 1rem;
+	min-height: 1rem;
+}
+

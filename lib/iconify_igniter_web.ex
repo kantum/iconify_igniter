@@ -86,6 +86,7 @@ defmodule IconifyIgniterWeb do
       # Core UI components and translation
       import IconifyIgniterWeb.CoreComponents
       import IconifyIgniterWeb.Gettext
+      import Iconify
 
       # Shortcut for generating JS commands
       alias Phoenix.LiveView.JS
